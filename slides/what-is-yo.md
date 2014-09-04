@@ -1,5 +1,5 @@
 ##  What Is Yo?
-![Yo Icon](../images/yo_icon.png)
+![Yo Icon](./images/yo_icon.png)
 
 * 読み方：ヨー <!-- .element: class="fragment roll-in" -->
 * Google 社製の Generator 。 <!-- .element: class="fragment roll-in" -->
